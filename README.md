@@ -2,8 +2,6 @@
 
 <p>Welcome to my page! </br> I'm GOWTHAMRAJ, Fullstack developer from <b>India</b>. </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
 ## 🔧 Technologies & Tools
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
