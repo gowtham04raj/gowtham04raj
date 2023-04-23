@@ -18,7 +18,7 @@
 ```javascript
 const gowthamraj = {
   pronouns: "he" | "his",
-  language: [JavaScript, HTML, CSS, Typescript, Node JS],
+  language: [JavaScript, "HTML", "CSS", Typescript, "Node JS"],
   framework: [Angular, Angular JS, jQuery, Bootstrap, SASS, Jasmine, Express
 JS],
   database: [SQL, PostgreSQL, SQLite, MongoDB],
