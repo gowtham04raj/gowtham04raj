@@ -18,8 +18,8 @@
 ```javascript
 const gowthamraj = {
   pronouns: "he" | "his",
-  language: [JavaScript, "HTML", "CSS", Typescript, "Node JS"],
-  framework: [Angular, Angular JS, jQuery, Bootstrap, SASS, Jasmine, Express
+  language: ["JavaScript", "HTML", "CSS", "Typescript", "Node JS"],
+  framework: ["Angular", "Angular JS", 'jQuery', 'Bootstrap', 'SASS', Jasmine, Express
 JS],
   database: [SQL, PostgreSQL, SQLite, MongoDB],
   development: [Git, GitHub, Gerrit Code Review, SVN, Tomcat, NPM],
